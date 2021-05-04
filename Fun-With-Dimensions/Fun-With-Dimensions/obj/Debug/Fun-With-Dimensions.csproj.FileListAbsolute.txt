@@ -1,0 +1,6 @@
+/Users/abdullahalsalem/Documents/GitHub/Fun-With-Dimensions/Fun-With-Dimensions/Fun-With-Dimensions/bin/Debug/Fun-With-Dimensions.exe
+/Users/abdullahalsalem/Documents/GitHub/Fun-With-Dimensions/Fun-With-Dimensions/Fun-With-Dimensions/bin/Debug/Fun-With-Dimensions.pdb
+/Users/abdullahalsalem/Documents/GitHub/Fun-With-Dimensions/Fun-With-Dimensions/Fun-With-Dimensions/obj/Debug/Fun-With-Dimensions.csprojAssemblyReference.cache
+/Users/abdullahalsalem/Documents/GitHub/Fun-With-Dimensions/Fun-With-Dimensions/Fun-With-Dimensions/obj/Debug/Fun-With-Dimensions.csproj.CoreCompileInputs.cache
+/Users/abdullahalsalem/Documents/GitHub/Fun-With-Dimensions/Fun-With-Dimensions/Fun-With-Dimensions/obj/Debug/Fun-With-Dimensions.exe
+/Users/abdullahalsalem/Documents/GitHub/Fun-With-Dimensions/Fun-With-Dimensions/Fun-With-Dimensions/obj/Debug/Fun-With-Dimensions.pdb

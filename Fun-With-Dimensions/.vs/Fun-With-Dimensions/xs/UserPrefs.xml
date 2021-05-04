@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E0B05EBF-20B6-44EF-BE4E-D2AF992F623B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fun-With-Dimensions/Program.cs">
+    <Files>
+      <File FileName="Fun-With-Dimensions/Program.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fun-With-Dimensions" expanded="True">
+            <Node name="Fun-With-Dimensions" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Fun-With-Dimensions PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
